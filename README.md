@@ -11,7 +11,7 @@ Adjust your gps location into my_loc
 
 This project needs Python3 and the requests package.
 
-First install pipenv. Then:
+First install pipenv. Then run the script:
 
 ```
 pipenv install
