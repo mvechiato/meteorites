@@ -15,5 +15,5 @@ First install pipenv. Then:
 
 ```
 pipenv install
-pipenv run "python meteors.py"
+pipenv run "python meteors/meteorites.py"
 ```
