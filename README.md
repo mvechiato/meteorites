@@ -5,7 +5,7 @@ Find local meteorites
 
 ## setup
 
-Adjust your gps location into my_loc variable
+Adjust your gps location into my_loc 
 
 ## Running
 
